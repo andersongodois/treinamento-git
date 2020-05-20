@@ -1,5 +1,5 @@
 package br.com.example.git;
 
-public class ArquivoRemovido {
+public class ArquivoNovo {
 
 }
