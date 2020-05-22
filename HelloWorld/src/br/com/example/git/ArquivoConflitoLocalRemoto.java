@@ -1,5 +1,5 @@
 package br.com.example.git;
 
 public class ArquivoConflitoLocalRemoto {
- //alteraÃ§Ã£o2
+ //alteração
 }
